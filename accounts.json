@@ -1,0 +1,12 @@
+[
+  {
+    "walletAddress": "wallet1",
+    "token": "token1",
+    "deviceHash": "000000"
+  },
+  {
+    "walletAddress": "wallet2",
+    "token": "token2",
+    "deviceHash": "000000"
+  }
+]
